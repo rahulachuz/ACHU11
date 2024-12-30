@@ -1,25 +1,22 @@
-<div align="center">
-  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
- <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Rahul%2C+a+Full+Stack+Developer+%26+DevOps+Engineer+%F0%9F%94%99" width="70%" />
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">A passionate Full Stack Developer ⚙️ and aspiring DevOps Engineer 🛠️, blending creativity 🎨 and technical expertise 💻 to build seamless applications 📱 and scalable infrastructures ☁️.</h3>
 
-  <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulachuz&label=Profile%20views&color=0e75b6&style=flat" alt="rahulachuz" /> </p>
 
-  <pre style="text-align: left; font-family: 'Courier New', monospace; line-height: 1.5; padding: 10px;">
-      💼 Full Stack Developer & DevOps Engineer
-      💻 Skills: ✨ HTML, 🎨 CSS, 🌬️ Tailwind, ⚡ JavaScript, ⚛️ React.js, 🔄 Redux, 
-      🗂️ MySQL, 🐱 MongoDB, 🛠️ Node.js, ☁️ AWS, 🐳 Docker, 
-      ☸️ Kubernetes, 🔧 Jenkins, 📊 SonarQube, 🛡️ Trivy, 📈 Prometheus
-      📖 System Programming • DevOps • Cloud Platforms
-      🎮 Music • Games • Anime • Code • Art
-      🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-  </pre>
-  
-  <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <br><br><br>
+- 🛠️ Ask me about **Js Basics,Devops Basics**
 
-  [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/rahul-s-001)
-  [![](https://img.shields.io/badge/github-181717)](https://github.com/your-github-username)
-  [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@rahuls)
-  [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/your-osu-user)
-</div>
+- 📫 How to reach me **rahulachuz68@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/rahul-s-75b22b16a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/rahul-s-75b22b16a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulachuz&show_icons=true&locale=en&layout=compact" alt="rahulachuz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulachuz&show_icons=true&locale=en" alt="rahulachuz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulachuz&" alt="rahulachuz" /></p>
